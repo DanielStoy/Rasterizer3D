@@ -1,0 +1,13 @@
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\bin\Debug\netcoreapp3.1\3DRasterizer.exe
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\bin\Debug\netcoreapp3.1\3DRasterizer.deps.json
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\bin\Debug\netcoreapp3.1\3DRasterizer.runtimeconfig.json
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\bin\Debug\netcoreapp3.1\3DRasterizer.runtimeconfig.dev.json
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\bin\Debug\netcoreapp3.1\3DRasterizer.dll
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\bin\Debug\netcoreapp3.1\3DRasterizer.pdb
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\obj\Debug\netcoreapp3.1\3DRasterizer.csprojAssemblyReference.cache
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\obj\Debug\netcoreapp3.1\3DRasterizer.csproj.CoreCompileInputs.cache
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\obj\Debug\netcoreapp3.1\3DRasterizer.AssemblyInfoInputs.cache
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\obj\Debug\netcoreapp3.1\3DRasterizer.AssemblyInfo.cs
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\obj\Debug\netcoreapp3.1\3DRasterizer.dll
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\obj\Debug\netcoreapp3.1\3DRasterizer.pdb
+C:\Users\jim55\source\repos\3DRasterizer\3DRasterizer\obj\Debug\netcoreapp3.1\3DRasterizer.genruntimeconfig.cache

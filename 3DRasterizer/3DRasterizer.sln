@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DRasterizer", "3DRasterizer\3DRasterizer.csproj", "{FAD6C472-9EE1-4AE5-8712-28452ABEB85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAD6C472-9EE1-4AE5-8712-28452ABEB85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD6C472-9EE1-4AE5-8712-28452ABEB85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD6C472-9EE1-4AE5-8712-28452ABEB85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD6C472-9EE1-4AE5-8712-28452ABEB85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BB2856D-2E24-492D-963D-D856BFE6266C}
+	EndGlobalSection
+EndGlobal
